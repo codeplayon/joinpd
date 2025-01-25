@@ -4,7 +4,7 @@ Are you interested in joining an Online Class at [JoinPd.con](https://www.codepl
 What is joinpd.con?
 joinpd.con is an online video conference platform that allows educators to create captivating slideshow-style material for their students to enhance their learning. With the pear deck, teachers can design stunning slides and increase the level of engagement by turning normal lectures into presentation. Teachers can also make Custom Questions and add audio to any slide or component for an additional stimulation.
 
-The most appealing aspect of [Pear Deck](https://www.codeplayon.com/joinpd-com/) is teachers can start using Pear Deck within a couple of minutes. Just they need to do is to Go to https://www.peardeck.com/ and Sign up as a teacher, then download the extension and start teaching.
+The most appealing aspect of [Pear Deck](https://www.codeplayon.com/joinpd-com/) is teachers can start using Pear Deck within a couple of minutes. Just they need to do is to Go to [peardeck.com](https://www.codeplayon.com/joinpd-com/) and Sign up as a teacher, then download the extension and start teaching.
 
 In the case of Pear Deck, teachers are faced with a common issue because they don’t know how to register to get the Pear Deck account for teachers. I’m guessing you’re some confusion about the process. However, now you are able to relive the experience as we’ve discussed everything.
 

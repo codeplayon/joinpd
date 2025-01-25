@@ -13,7 +13,7 @@ How do I sign-up on joinpd.com & Join Session ?
 Here are the steps you must follow to sign to sign up to receive the Pear Deck Account.
 
 Step 1. First, you must start a web browser on your smartphone PC, laptop, or smartphone.
-Step 2. Go to the JoinPD website i.e., [https://peardeck.com](https://www.codeplayon.com/joinpd-com/)
+Step 2. Go to the JoinPD website i.e., [peardeck.com](https://www.codeplayon.com/joinpd-com/)
 Step 3. In the third step, click on Sign Up.
 Step 4. It will prompt you to log in again to Google or Microsoft account.
 Step 5. Select the Preference you prefer and then Continue
